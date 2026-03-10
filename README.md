@@ -11,11 +11,7 @@
 
 ## 想自己生成？
 
-安装 [news-digest-skill](https://github.com/RocStone/news-digest-skill)，在 Claude Code 中运行 `/myhn` 或 `/news` 即可。
-
-```bash
-npx skills add RocStone/news-digest-skill
-```
+看这里： [news-digest-skill](https://github.com/RocStone/news-digest-skill)
 
 ## License
 
